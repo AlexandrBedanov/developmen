@@ -17,5 +17,12 @@ public class Bolka {
         System.out.println("Сумма"+(a+b+c));
         System.out.println("Разность"+(a-b-c));
 
+
+
+    }
+    class bulkaTop{
+        public void top(){
+
+        }
     }
 }
